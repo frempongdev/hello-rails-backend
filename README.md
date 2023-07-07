@@ -119,8 +119,20 @@ or
 ```sh
   ./bin/dev
 ```
+### Front-End <a name="built-with"></a>
+
+[hello-react-frontend](https://github.com/frempongdev/hello-rails-frontend.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Install
+
+Install this project with:
+
+```
+  bundle install
+```
 
 <!-- AUTHORS -->
 
