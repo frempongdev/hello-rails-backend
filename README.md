@@ -30,9 +30,6 @@
 
 **Hello Rails Backend** is an API-only application implemented with Rails.
 
-## NOTE
-[Link to the frontend](https://github.com/rica213/hello-react-front-end)
-
 # 🛠 Built With <a name="built-with"></a>
 
 ## 📌 Tech Stack <a name="tech-stack"></a>
